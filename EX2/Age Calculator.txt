@@ -1,0 +1,7 @@
+integer x 
+integer y
+Put "How old are you in years?\n" to output
+x = Get next input
+y = x*31557600
+Put y to output
+Put " is your age in seconds." to output
